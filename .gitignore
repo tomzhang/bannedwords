@@ -2,3 +2,7 @@
 rawbadwords_out.txt
 
 rawbadwords.txt
+
+raw_sms_banned_words.txt
+
+encrypt.php
